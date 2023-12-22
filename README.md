@@ -51,6 +51,21 @@ Enabling interconnectedness and discovery of legal service providers helps with:
 ## Current Working Draft Branch
 Draft
 
+## Acknowledgements
+
+The author(s) of this specification would like to thank the following volunteers for their contribution to the development of this specification
+
+### Version 0.1.3
+
+- Keerthana Medarametla - Agami
+- Smrithi Sundararajan - Agami
+- Aishwarya Dixit - Deloitte
+- Dr. Sravani Reddy Kuncharam - Deloitte
+
+## References
+1. https://odr.info
+2. https://en.wikipedia.org/wiki/Online_dispute_resolution
+
 ## Getting Started
 
 * To understand how to implement the specification, click [here](./docs). <br/>
@@ -67,20 +82,3 @@ https://github.com/beckn/beckn-sandbox/blob/main/USER_GUIDE.md
 * For link to sample JSONs, click [here](/https://github.com/beckn/PULSE-Specification/tree/main/examples). <br/>
 
 * For link to Postman Collections, click [here](/https://github.com/beckn/beckn-sandbox/blob/main/artefacts/ODR/ODR%20Sandbox%20Latest.postman_collection.json). <br/>
-
-<!-- * To know more about the workflow and user experience, click [here](./docs/4_General-workflow.md) -->
-
-## Acknowledgements
-
-The author(s) of this specification would like to thank the following volunteers for their contribution to the development of this specification
-
-### Version 0.1.3
-
-- Keerthana Medarametla - Agami
-- Smrithi Sundararajan - Agami
-- Aishwarya Dixit - Deloitte
-- Dr. Sravani Reddy Kuncharam - Deloitte
-
-## References
-1. https://odr.info
-2. https://en.wikipedia.org/wiki/Online_dispute_resolution
