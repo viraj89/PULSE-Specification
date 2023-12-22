@@ -68,7 +68,7 @@ In this interaction, the Dispute Resolution Provider publishes their catalog of 
 - Catalog of a Dispute Resolution provider containing details of a single product
 
 ### Logical Workflow
-
+[](./media/discovery.png)
 
 
 ### Beckn Protocol API Workflow
