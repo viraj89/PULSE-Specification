@@ -79,6 +79,8 @@ https://github.com/beckn/protocol-server#register-local-bap-and-bpp-networks
 * Link to Sandbox guide: <br/>
 https://github.com/beckn/beckn-sandbox/blob/main/USER_GUIDE.md
 
-* For link to sample JSONs, click [here](/https://github.com/beckn/PULSE-Specification/tree/main/examples). <br/>
+* For link to sample JSONs, <br/>
+https://github.com/beckn/PULSE-Specification/tree/main/examples
 
-* For link to Postman Collections, click [here](/https://github.com/beckn/beckn-sandbox/blob/main/artefacts/ODR/ODR%20Sandbox%20Latest.postman_collection.json). <br/>
+* For link to Postman Collections, <br/>
+/https://github.com/beckn/beckn-sandbox/blob/main/artefacts/ODR/ODR%20Sandbox%20Latest.postman_collection.json
